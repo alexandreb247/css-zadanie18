@@ -1,0 +1,21 @@
+body {
+    background-color: #faebd6;
+}
+h1 {
+    color:  #ff0000;
+    text-align: left;
+    margin-top: 20px;
+    font-size: 250%;
+    }
+p.paragraf1 {
+    margin-block: 50px;
+    color: #a42423;
+    text-align: left;
+    font-size: 200%;
+}
+p.paragraf2 {
+    margin-block: 50px;
+    color: #00008f;
+    text-align: left;
+    font-size: 200%;
+}
